@@ -52,20 +52,6 @@ The project provides several key insights, such as:
 - **Memory card support** varies significantly across different brands.
 - **High-value smartphones** combine high ratings with relatively low prices, making them attractive options for consumers seeking value and performance.
 
-## Sample Visualizations
-
-### Price Distribution of Smartphones
-
-![Price Distribution](https://drive.google.com/file/d/1aBf_KR-8lgH6WrbQQZaa46EvF3qUOk73/view?usp=drive_link)
-
-### Battery Life Comparison
-
-![Battery Life Comparison](https://drive.google.com/uc?export=view&id=1ltp4OWWOoBE95KjbfANQtLkBr8lb_yhW)
-
-### Average Ratings by Brand
-
-![Average Ratings by Brand](https://drive.google.com/uc?export=view&id=1i3gKwY2fQX29F34UoKZx7dIsI4q_Jt5i)
-
 ## Author
 
 This project was developed by [Bhushan Gawali](https://www.linkedin.com/in/bhushan-gawali-97b645233).
@@ -87,3 +73,11 @@ This project was developed by [Bhushan Gawali](https://www.linkedin.com/in/bhush
 - [More Projects]()
 - [More Projects]()
 - [More Projects]()
+
+## ScreenShots
+
+![Query_03_04](https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project/assets/115460598/80e267b7-07d9-46a5-b680-4ac722776c77)
+
+![Quary_02](https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project/assets/115460598/cd9e2640-9420-44c8-88b8-e93541c7f4ba)
+
+![Query_11](https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project/assets/115460598/7dfb7d23-6251-45bb-9492-b86c5c925649)
