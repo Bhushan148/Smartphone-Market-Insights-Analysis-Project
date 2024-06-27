@@ -52,6 +52,20 @@ The project provides several key insights, such as:
 - **Memory card support** varies significantly across different brands.
 - **High-value smartphones** combine high ratings with relatively low prices, making them attractive options for consumers seeking value and performance.
 
+## Sample Visualizations
+
+### Price Distribution of Smartphones
+
+![Price Distribution](https://drive.google.com/file/d/1aBf_KR-8lgH6WrbQQZaa46EvF3qUOk73/view?usp=drive_link)
+
+### Battery Life Comparison
+
+![Battery Life Comparison](https://drive.google.com/uc?export=view&id=1ltp4OWWOoBE95KjbfANQtLkBr8lb_yhW)
+
+### Average Ratings by Brand
+
+![Average Ratings by Brand](https://drive.google.com/uc?export=view&id=1i3gKwY2fQX29F34UoKZx7dIsI4q_Jt5i)
+
 ## Author
 
 This project was developed by [Bhushan Gawali](https://www.linkedin.com/in/bhushan-gawali-97b645233).
@@ -73,7 +87,3 @@ This project was developed by [Bhushan Gawali](https://www.linkedin.com/in/bhush
 - [More Projects]()
 - [More Projects]()
 - [More Projects]()
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
