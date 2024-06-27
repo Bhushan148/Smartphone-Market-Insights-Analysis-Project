@@ -74,10 +74,11 @@ This project was developed by [Bhushan Gawali](https://www.linkedin.com/in/bhush
 - [More Projects]()
 - [More Projects]()
 
-## ScreenShots
+## Screenshots
 
-![Query_03_04](https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project/assets/115460598/80e267b7-07d9-46a5-b680-4ac722776c77)
+<p float="left">
+  <img src="https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project/assets/115460598/80e267b7-07d9-46a5-b680-4ac722776c77" alt="Query_03_04" style="width:300px; height:300px; border: 2px solid yellow; margin-right: 10px;"/>
+  <img src="https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project/assets/115460598/cd9e2640-9420-44c8-88b8-e93541c7f4ba" alt="Quary_02" style="width:300px; height:400px; border: 2px solid yellow; margin-right: 10px;"/>
+  <img src="https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project/assets/115460598/7dfb7d23-6251-45bb-9492-b86c5c925649" alt="Query_11" style="width:300px; height:200px; border: 2px solid yellow; margin-right: 10px;"/>
+</p>
 
-![Quary_02](https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project/assets/115460598/cd9e2640-9420-44c8-88b8-e93541c7f4ba)
-
-![Query_11](https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project/assets/115460598/7dfb7d23-6251-45bb-9492-b86c5c925649)
